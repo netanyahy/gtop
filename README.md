@@ -4,7 +4,7 @@
 ## Установка
 
 ```sh
-git clone https://github.com/<ваш-юзернейм>/gtop.git
+git clone https://github.com/netanyahy/gtop.git
 cd gtop
 ./install.sh
 ```
